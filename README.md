@@ -1,6 +1,6 @@
 # Wassup!
 
-I'm **Chandra**, a Software Engineer who is obsessed with how things work under the hood. I specialize in backend architecture, distributed systems, and building high-performance microservices. When I'm not optimizing queries or hunting down memory leaks, I'm usually experimenting with new infrastructure concepts or building open-source tools.
+I'm **Chandra**, a Software Engineer who is interested of how things work under the hood. I specialize in backend architecture, distributed systems, and Golang. After work you cannot find me.
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/chandraa17/) • ✍️ **Read my writings:** [chan179.com](https://chan179.com/)
 
