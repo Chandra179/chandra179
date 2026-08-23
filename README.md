@@ -18,17 +18,16 @@ I'm **Chandra**, a Software Engineer who is interested of how things work under 
 ### 💻 Featured Projects
 
 #### ⚙️ Backend & Infrastructure
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **[Brook](https://github.com/Chandra179/brook)** | A robust Golang boilerplate focusing on modularity, abstraction, middleware, and integration testing. | [Repo](https://github.com/Chandra179/brook) |
-| **[GoSys](https://github.com/Chandra179/gosys)** | A profile-guided static analyzer designed to detect and flag Go memory anti-patterns. | [Repo](https://github.com/Chandra179/gosys) |
-| **[Nadir](https://github.com/Chandra179/nadir)** | A production-grade Retrieval-Augmented Generation (RAG) system. | [Repo](https://github.com/Chandra179/nadir) |
-| **[Pyro](https://github.com/Chandra179/pyro)** | A scraper and graph tool that turns any company's engineering blog into a mapped system ontology. | [Repo](https://github.com/Chandra179/pyro) |
+| Project | Description |
+| :--- | :--- |
+| **[Brook](https://github.com/Chandra179/brook)** | A robust Golang boilerplate focusing on modularity, abstraction, middleware, and integration testing.
+| **[GoSys](https://github.com/Chandra179/gosys)** | A profile-guided static analyzer designed to detect and flag Go memory anti-patterns.
+| **[Nadir](https://github.com/Chandra179/nadir)** | A production-grade Retrieval-Augmented Generation (RAG) system. | [Repo](https://github.com/Chandra179/nadir).
+| **[Pyro](https://github.com/Chandra179/pyro)** | A scraper and graph tool that turns any company's engineering blog into a mapped system ontology.
 
 #### 🎨 UI / UX Prototypes
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **[SolidBank](https://github.com/Chandra179/solid-bank)** | A sleek digital banking UI/UX prototype. | [Repo](https://github.com/Chandra179/solid-bank) |
-| **[Earth](https://github.com/Chandra179/earth)** | A nature indicator and climate change dashboard UI/UX prototype. | [Repo](https://github.com/Chandra179/earth) |
+| Project | Description |
+| :--- | :--- |
+| **[SolidBank](https://github.com/Chandra179/solid-bank)** | A sleek digital banking UI/UX prototype.
+| **[Earth](https://github.com/Chandra179/earth)** | A nature indicator and climate change dashboard UI/UX prototype.
 
----
