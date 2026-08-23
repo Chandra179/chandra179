@@ -33,8 +33,8 @@ I'm **Chandra**, a Software Engineer who is interested of how things work under 
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Contribution Graph
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandra179&theme=react-dark" width="100%" alt="Chandra's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/216e39/Chandra179" alt="Chandra's Github chart" width="100%" />
 </div>
