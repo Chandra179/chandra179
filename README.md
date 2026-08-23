@@ -33,10 +33,8 @@ I'm **Chandra**, a Software Engineer who is interested of how things work under 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<!-- You can enable these stats by replacing 'Chandra179' with your exact GitHub username if it's different -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandra179&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777&icon_color=white" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra179&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandra179&theme=react-dark" width="100%" alt="Chandra's GitHub Activity Graph" />
 </div>
