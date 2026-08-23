@@ -32,9 +32,3 @@ I'm **Chandra**, a Software Engineer who is interested of how things work under 
 | **[Earth](https://github.com/Chandra179/earth)** | A nature indicator and climate change dashboard UI/UX prototype. | [Repo](https://github.com/Chandra179/earth) |
 
 ---
-
-### 📊 Contribution Graph
-
-<div align="left">
-  <img src="https://ghchart.rshah.org/216e39/Chandra179" alt="Chandra's Github chart" width="100%" />
-</div>
