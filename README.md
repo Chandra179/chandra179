@@ -1,4 +1,4 @@
-# Wassup!
+ # Intro
 
 I'm **Chandra**, a Software Engineer who is interested of how things work under the hood. I specialize in backend architecture, distributed systems, and Golang. After work you cannot find me.
 
